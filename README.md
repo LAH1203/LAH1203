@@ -5,17 +5,17 @@
 -->
 
 #### Study 🌱
-💬 ### Algorithm Study ## 2020.07.26 ~
-💬 ### Node.js Study ## 2020.08.12 ~
+### 💬 Algorithm Study # 2020.07.26 ~
+### 💬 Node.js Study # 2020.08.12 ~
 
 #### Project ⚡
-🎓 ### 공영주차장 앱 개발(using google map open api source) ## 2020.05.02 ~ 2020.06.01
-💬 ### Abilitygram 앱 개발(promotion_Seoul) ## 2020.07.24 ~
+### 🎓 공영주차장 앱 개발(using google map open api source) # 2020.05.02 ~ 2020.06.01
+### 💬 Abilitygram 앱 개발(promotion_Seoul) # 2020.07.24 ~
 
 #### Hoping && willing 😄
-💻 ### DB and SQL Study for SQLD
-💻 ### Kotlin Study
-💻 ### Python Study -> Tensorflow Study
+### 💻 DB and SQL Study for SQLD
+### 💻 Kotlin Study
+### 💻 Python Study -> Tensorflow Study
 
 <!--
 - 🔭 I’m currently working on ...
