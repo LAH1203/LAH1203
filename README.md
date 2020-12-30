@@ -20,6 +20,8 @@
 ### ✨ My Baekjoon Algorithm Page ✨
 #### https://www.acmicpc.net/user/lah1203
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=LAH1203&show_icons=true)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
