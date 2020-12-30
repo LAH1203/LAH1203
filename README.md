@@ -12,10 +12,10 @@
 ### Project ⚡
 #### 🎓 공영주차장 앱 개발(using google map open api source) # 2020.05.02 ~ 2020.06.01
 #### 💬 Abilitygram 앱 개발(promotion_Seoul) # 2020.07.24 ~
+#### 💬 Make chatting web using Node.js # 2020.12.29 ~
 
 ### Hoping && willing 😄
 #### 💻 Make AI android app like Bixby using Tensorflow
-#### 💻 Make chatting web using Node.js
 
 ### ✨ My Baekjoon Algorithm Page ✨
 #### https://www.acmicpc.net/user/lah1203
