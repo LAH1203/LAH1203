@@ -1,17 +1,31 @@
-## ⭐️ Coding History ⭐️
+## ⭐️ Coding History ⭐️ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLAH1203&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- 👋
 **LAH1203/LAH1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+### Can Do 💬
++ C / C++
++ Java
++ Kotlin
++ Android
++ Web(Frontend/Backend)
+
 ### Study 🌱
-#### 💬 Kotlin Study # 2020.12.21 ~
+| Study | Link |
+| ------ | ------ |
+| Baekjoon Algorithm | https://github.com/LAH1203/Baekjoon_Algorithm |
+| html, css, js | https://github.com/LAH1203/study_web |
+| Kotlin | https://github.com/LAH1203/Kotlin_study |
+| Web Application(node.js) | https://github.com/LAH1203/Study_web_application |
 
 ### Project ⚡
-#### 🎓 공영주차장 앱 개발(using google map open api source) # 2020.05.02 ~ 2020.06.01
-#### 💬 Abilitygram 앱 개발(promotion_Seoul) # 2020.07.24 ~
-#### 💬 Make chatting web using Node.js # 2020.12.29 ~
-#### 💬 Web Application # 2020.12.31 ~
+| Project | Link | Date |
+| ------ | ------ | ------ |
+| 찾아봐요 공영주차장 | https://github.com/LAH1203/Parking_Map | 2020.05.02 ~ 2020.06.01 |
+| Abilitygram | https://github.com/sunjungAn/promotion_seoul | 2020.07.24 ~ |
+| Kokoatalk | https://github.com/LAH1203/Kokoatalk | 2020.12.29 ~ |
+| Web application(미제) |  | 2020.12.31 ~ |
 
 <!--### Hoping && willing 😄
 #### 💻 -->
