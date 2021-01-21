@@ -4,12 +4,25 @@
 **LAH1203/LAH1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Can Do 💬
+### Used at least once 💬
+<!--
 + C / C++
 + Java
 + Kotlin
 + Android
 + Web(Frontend/Backend)
+-->
+<!--![Javascript](https://img.shields.io/amo/stars/javascript?color=yellow&label=Javascript&logo=Javascript)-->
+![C](https://img.shields.io/badge/-C-black)
+![C++](https://img.shields.io/badge/-C++-black)
+![Java](https://img.shields.io/badge/-Java-black)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black)
+![HTML](https://img.shields.io/badge/-HTML-black)
+![CSS](https://img.shields.io/badge/-CSS-black)
+![Javascript](https://img.shields.io/badge/-Javascript-black)
+<br>
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-black)
+![Node.js](https://img.shields.io/badge/-Node.js-black)
 
 ### Study 🌱
 | Study | Link |
