@@ -1,4 +1,4 @@
-## ⭐️ Coding History ⭐️ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLAH1203&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## ⭐️ Coding History ⭐️ <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLAH1203&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 <!-- 👋
 **LAH1203/LAH1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,17 +13,22 @@
 + Web(Frontend/Backend)
 -->
 <!--![Javascript](https://img.shields.io/amo/stars/javascript?color=yellow&label=Javascript&logo=Javascript)-->
-![C](https://img.shields.io/badge/-C-black)
-![C++](https://img.shields.io/badge/-C++-black)
-![Java](https://img.shields.io/badge/-Java-black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black)
-![HTML](https://img.shields.io/badge/-HTML-black)
-![Jade/Pug](https://img.shields.io/badge/-Jade/Pug-black)
-![CSS](https://img.shields.io/badge/-CSS-black)
-![Javascript](https://img.shields.io/badge/-Javascript-black)
+<!-- icon url : https://simpleicons.org/ -->
+![C/C++](https://img.shields.io/badge/-C%20/%20C++-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Jade/Pug](https://img.shields.io/badge/-Jade%20/%20Pug-black)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 <br>
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-black)
-![Node.js](https://img.shields.io/badge/-Node.js-black)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android%20studio&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### Can Do 📫
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Web application](https://img.shields.io/badge/-Web%20Application-339933?style=flat&logo=node.js&logoColor=white)
 
 ### Study 🌱
 | Study | Link |
