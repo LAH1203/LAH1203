@@ -18,6 +18,7 @@
 ![Java](https://img.shields.io/badge/-Java-black)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black)
 ![HTML](https://img.shields.io/badge/-HTML-black)
+![Jade/Pug](https://img.shields.io/badge/-Jade/Pug-black)
 ![CSS](https://img.shields.io/badge/-CSS-black)
 ![Javascript](https://img.shields.io/badge/-Javascript-black)
 <br>
@@ -41,7 +42,7 @@
 | Kokoatalk | https://github.com/LAH1203/Kokoatalk | 2020.12.29 ~ |
 | WhereGo | https://github.com/LAH1203/WhereGo | 2021.01.03 ~ |
 
-### Hoping && willing 💻
+### Planning 💻
 + React
 + Vue.js
 + **Web Developing!!**
