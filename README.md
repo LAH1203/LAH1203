@@ -19,7 +19,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![Jade/Pug](https://img.shields.io/badge/-Jade%20/%20Pug-black)
+![Jade/Pug](https://img.shields.io/badge/-Jade%20/%20Pug-FF7F7F)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 <br>
@@ -29,6 +29,9 @@
 ### Can Do 📫
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Web application](https://img.shields.io/badge/-Web%20Application-339933?style=flat&logo=node.js&logoColor=white)
+
+### Interested
+![Web](https://img.shields.io/badge/-Web-2496ED?style=flat&logo=Internet%20Explorer&logoColor=white)
 
 ### Study 🌱
 | Study | Link |
