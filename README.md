@@ -53,6 +53,7 @@
 ### Planning 💻
 + React
 + Vue.js
++ Java Spring
 + **Web Developing!!**
 
 ### ✨ My Baekjoon Algorithm Page ✨
