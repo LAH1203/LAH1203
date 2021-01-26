@@ -39,7 +39,7 @@
 | Baekjoon Algorithm | https://github.com/LAH1203/Baekjoon_Algorithm |
 | html, css, js | https://github.com/LAH1203/study_web |
 | Kotlin | https://github.com/LAH1203/Kotlin_study |
-| Web Application(node.js) | https://github.com/LAH1203/Study_web_application |
+| Web Application(node.js) | https://github.com/LAH1203/Study_nodejs |
 | Data structure & Algorithm | https://github.com/LAH1203/My_Algorithm |
 
 ### Project ⚡
