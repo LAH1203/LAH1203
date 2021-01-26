@@ -34,26 +34,26 @@
 ![Web](https://img.shields.io/badge/-Web-2496ED?style=flat&logo=Internet%20Explorer&logoColor=white)
 
 ### Study 🌱
-| Study | Link |
+| 이름 | 비고 |
 | ------ | ------ |
-| Baekjoon Algorithm | https://github.com/LAH1203/Baekjoon_Algorithm |
-| html, css, js | https://github.com/LAH1203/study_web |
-| Kotlin | https://github.com/LAH1203/Kotlin_study |
-| Web Application(node.js) | https://github.com/LAH1203/Study_nodejs |
-| Data structure & Algorithm | https://github.com/LAH1203/My_Algorithm |
+| [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) | 백준 알고리즘 코드 정리 |
+| [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) | 자료구조와 알고리즘을 공부하며 개념을 정리 |
+| [Kotlin](https://github.com/LAH1203/Kotlin_study) | Kotlin 언어를 공부하며 정리 |
+| [Frontend basic](https://github.com/LAH1203/study_htmlcss) | html, css 기본 |
+| [Web Application(node.js)](https://github.com/LAH1203/Study_nodejs) | node.js를 공부하며 사용한 코드를 정리 |
+| [Web(Java & JavaSpring)](https://github.com/LAH1203/Study_fullstack_with_java) | 자바 기반의 web 개발을 공부하며 관련 개념 및 코드를 정리 |
 
 ### Project ⚡
-| Project | Link | Date |
-| ------ | ------ | ------ |
-| 찾아봐요 공영주차장 | https://github.com/LAH1203/Parking_Map | 2020.05.02 ~ 2020.06.01 |
-| Abilitygram | https://github.com/sunjungAn/promotion_seoul | 2020.07.24 ~ |
-| Kokoatalk | https://github.com/LAH1203/Kokoatalk | 2020.12.29 ~ |
-| WhereGo | https://github.com/LAH1203/WhereGo | 2021.01.03 ~ |
+| Project | Date | I Used |
+| ------ | ------ | --- |
+| [찾아봐요 공영주차장](https://github.com/LAH1203/Parking_Map) | 2020-05-02 ~ 2020-06-01 | Android Studio(Java) |
+| [Abilitygram](https://github.com/sunjungAn/promotion_seoul) | 2020-07-24 ~ (잠정적 중단..?) | Android Studio(Java) |
+| [Kokoatalk](https://github.com/LAH1203/Kokoatalk) | 2020-12-29 ~ | Node.js(Frontend) |
+| [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ | Node.js(Fullstack) |
 
 ### Planning 💻
 + React
 + Vue.js
-+ Java Spring
 + **Web Developing!!**
 
 ### ✨ My Baekjoon Algorithm Page ✨
