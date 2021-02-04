@@ -50,7 +50,7 @@
 | [Abilitygram](https://github.com/sunjungAn/promotion_seoul) | 2020-07-24 ~ (잠정적 중단..?) | Android Studio(Java) |
 | [Kokoatalk](https://github.com/LAH1203/Kokoatalk) | 2020-12-29 ~ | Node.js(Frontend) |
 | [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ | Node.js(Fullstack) |
-| [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03 | Vanilla JS |
+| [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03(하루동안 진행) | Vanilla JS |
 
 ### Planning 💻
 + React
