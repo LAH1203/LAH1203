@@ -34,10 +34,10 @@
 ![Web](https://img.shields.io/badge/-Web-2496ED?style=flat&logo=Internet%20Explorer&logoColor=white)
 
 ### Study 🌱
-| 이름 | 비고 |
+| Study | Description |
 | ------ | ------ |
 | [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) | 백준 알고리즘 코드 정리 |
-| [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) | 자료구조와 알고리즘을 공부하며 개념을 정리 |
+| [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) | 자료구조와 알고리즘을 공부하며 정리 |
 | [Kotlin](https://github.com/LAH1203/Kotlin_study) | Kotlin 언어를 공부하며 정리 |
 | [Frontend basic](https://github.com/LAH1203/study_htmlcss) | html, css 기본 |
 | [Web Application(node.js)](https://github.com/LAH1203/Study_nodejs) | node.js를 공부하며 사용한 코드를 정리 |
@@ -56,6 +56,11 @@
 + React
 + Vue.js
 + **Web Developing!!**
+
+### Challenge
+| What | Date | Description |
+| ---- | ---- | ----------- |
+| 알고리즘 문제 하루 최소 두 문제! | 2021-02-04 ~ | [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) & [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) |
 
 ### ✨ My Baekjoon Algorithm Page ✨
 #### https://www.acmicpc.net/user/lah1203
