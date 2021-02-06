@@ -39,7 +39,7 @@
 | [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) | 백준 알고리즘 코드 정리 |
 | [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) | 자료구조와 알고리즘을 공부하며 정리 |
 | [Kotlin](https://github.com/LAH1203/Kotlin_study) | Kotlin 언어를 공부하며 정리 |
-| [Frontend basic](https://github.com/LAH1203/study_htmlcss) | html, css 기본 |
+| [Frontend basic](https://github.com/LAH1203/study_frontend) | html, css, js 기본 |
 | [Web Application(node.js)](https://github.com/LAH1203/Study_nodejs) | node.js를 공부하며 사용한 코드를 정리 |
 | [Web(Java & JavaSpring)](https://github.com/LAH1203/Study_fullstack_with_java) | 자바 기반의 web 개발을 공부하며 관련 개념 및 코드를 정리 |
 
