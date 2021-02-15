@@ -1,10 +1,18 @@
-## ⭐️ Coding History ⭐️ <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLAH1203&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
+## ⭐ Coding History ⭐ <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLAH1203&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 <!-- 👋
 **LAH1203/LAH1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Used at least once 💬
+*I'm 🐥 Fullstack developer!*
+
+<!--
+이모지 링크
+https://apps.timwhitlock.info/emoji/tables/unicode
+https://www.webfx.com/tools/emoji-cheat-sheet/
+-->
+
+### Used at least once :books:
 <!--
 + C / C++
 + Java
@@ -26,15 +34,17 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android%20studio&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
+<!--
 ### Can Do 📫
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Web application](https://img.shields.io/badge/-Web%20Application-339933?style=flat&logo=node.js&logoColor=white)
+-->
 
-### Interested
+### Interested :mag:
 ![Web](https://img.shields.io/badge/-Web-2496ED?style=flat&logo=Internet%20Explorer&logoColor=white)
 
-### Study 🌱
-| Study | Description |
+### Study 📖
+| Study | 📎 |
 | ------ | ------ |
 | [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) | 백준 알고리즘 코드 정리 |
 | [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) | 자료구조와 알고리즘을 공부하며 정리 |
@@ -43,8 +53,8 @@
 | [Web Application(node.js)](https://github.com/LAH1203/Study_nodejs) | node.js를 공부하며 사용한 코드를 정리 |
 | [Web(Java & JavaSpring)](https://github.com/LAH1203/Study_fullstack_with_java) | 자바 기반의 web 개발을 공부하며 관련 개념 및 코드를 정리 |
 
-### Project ⚡
-| Project | Date | I Used |
+### Project 🏆
+| Project | ⌛ | 📝 |
 | ------ | ------ | --- |
 | [찾아봐요 공영주차장](https://github.com/LAH1203/Parking_Map) | 2020-05-02 ~ 2020-06-01 | Android Studio(Java) |
 | [Abilitygram](https://github.com/sunjungAn/promotion_seoul) | 2020-07-24 ~ (잠정적 중단..?) | Android Studio(Java) |
@@ -52,12 +62,13 @@
 | [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ | Node.js(Fullstack) |
 | [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03(하루동안 진행) | Vanilla JS |
 
-### Planning 💻
+### Planning :clipboard:
 + React
 + Vue.js
++ Java & Java Spring
 + **Web Developing!!**
 
-### Challenge
+### Challenge :crystal_ball:
 | What | Date | Description |
 | ---- | ---- | ----------- |
 | 알고리즘 문제 하루 최소 두 문제! | 2021-02-04 ~ | [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) & [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) |
