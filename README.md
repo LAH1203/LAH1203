@@ -30,9 +30,9 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 ![Jade/Pug](https://img.shields.io/badge/-Jade%20/%20Pug-FF7F7F)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-<br>
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android%20studio&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&fontColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Java Spring](http://img.shields.io/badge/-Java%20Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
 <!--
 ### Can Do 📫
