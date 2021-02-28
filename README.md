@@ -60,7 +60,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | Project | ⌛ | 📝 |
 | ------ | ------ | --- |
 | [찾아봐요 공영주차장](https://github.com/LAH1203/Parking_Map) | 2020-05-02 ~ 2020-06-01 | Android Studio(Java) |
-| [Abilitygram](https://github.com/sunjungAn/promotion_seoul) | 2020-07-24 ~ (잠정적 중단..?) | Android Studio(Java) |
+| [Abilitygram](https://github.com/sunjungAn/promotion_seoul) | 2020-07-24 ~ (잠정적 중단ㅠ) | Android Studio(Java) |
 | [Kokoatalk](https://github.com/LAH1203/Kokoatalk) | 2020-12-29 ~ | Node.js(Frontend) |
 | [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ 2021-02-14 | Node.js(Fullstack) |
 | [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03(하루동안 진행) | Vanilla JS |
