@@ -39,6 +39,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&fontColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Java Spring](http://img.shields.io/badge/-Java%20Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Elastic search](http://img.shields.io/badge/-Elastic%20search-005571?style=flat&logo=Elasticsearch&logoColor=white)
 
 <!--
 ### Can Do 📫
@@ -63,6 +64,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | [Web Application(node.js)](https://github.com/LAH1203/Study_nodejs) | *node.js를 공부하며 사용한 코드* |
 | [Web(Java & JavaSpring)](https://github.com/LAH1203/Study_JavaSpring) | *Java Spring 공부* |
 | [React](https://github.com/LAH1203/React_study) | *React 공부* |
+| [Elastic search](https://github.com/LAH1203/Elastic-search) | *Elastic search 교육 내용 정리* |
 
 ### Project 🏆
 | Project | ⌛ | 📝 |
