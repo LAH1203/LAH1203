@@ -65,10 +65,10 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) | *백준 알고리즘 코드* |
 | [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) | *자료구조/알고리즘 공부* |
 | [Kotlin](https://github.com/LAH1203/Kotlin_study) | *Kotlin 공부* |
-| [Frontend basic](https://github.com/LAH1203/study_frontend) | *FE 기본* |
+| [Frontend basic](https://github.com/LAH1203/study_frontend) | *Frontend 기본* |
 | [jQuery](https://github.com/LAH1203/Study_jQuery) | *jQuery 공부* |
 | [Web Application(node.js)](https://github.com/LAH1203/Study_nodejs) | *node.js를 공부하며 사용한 코드* |
-| [Web(Java & JavaSpring)](https://github.com/LAH1203/Study_JavaSpring) | *Java Spring 공부* |
+| [Web(Java & JavaSpring)](https://github.com/LAH1203/Study_JavaSpring) | *Java Spring 기반 Backend 공부* |
 | [React](https://github.com/LAH1203/React_study) | *React 공부* |
 | [Elastic search](https://github.com/LAH1203/Elastic-search) | *Elastic search 교육 내용 정리* |
 
