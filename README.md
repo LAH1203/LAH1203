@@ -61,7 +61,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ### Study 📖
 | Study | 📎 |
-| ------ | ------ |
+| :----: | ------ |
 | [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) | *백준 알고리즘 코드* |
 | [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) | *자료구조/알고리즘 공부* |
 | [Kotlin](https://github.com/LAH1203/Kotlin_study) | *Kotlin 공부* |
@@ -73,12 +73,13 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ### Project 🏆
 | Project | ⌛ | 📝 |
-| ------ | ------ | --- |
+| :----: | ------ | --- |
 | [찾아봐요 공영주차장](https://github.com/LAH1203/Parking_Map) | 2020-05-02 ~ 2020-06-01 | *Android Studio(Java)* |
 | [Abilitygram](https://github.com/sunjungAn/promotion_seoul) | 2020-07-24 ~ (잠정적 중단ㅠ) | *Android Studio(Java)* |
 | [Kokoatalk](https://github.com/LAH1203/Kokoatalk) | 2020-12-29 ~ 2021-02-26 | *Node.js(FrontEnd)* |
 | [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ 2021-02-14 | *Node.js(FullStack)* |
-| [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03(하루동안 진행) | *Vanilla JS* |
+| [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03 (하루동안 진행) | *Vanilla JS* |
+| [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-03-25 ~ | *React, Java Spring* |
 
 ### Planning :clipboard:
 + Vue.js
