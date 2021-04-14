@@ -85,6 +85,8 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 ### Planning :clipboard:
 + Vue.js
 + 따라하며 배우는 노드, 리액트 시리즈
++ 인프런 리액트 산 강의
++ HTML, CSS, Javascript 제대로 공부합시당
 + **프론트엔드 중점적으로 공부!**
 
 <!--
