@@ -85,10 +85,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 ### Planning :clipboard:
 + Vue.js
 + 따라하며 배우는 노드, 리액트 시리즈
-  - 유튜브
-  - 영화 사이트
-  - 챗봇
-+ **Web Fullstack Developing!!**
++ **프론트엔드 중점적으로 공부!**
 
 <!--
 ### Challenge :crystal_ball:
