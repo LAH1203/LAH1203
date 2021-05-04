@@ -80,7 +80,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | [Kokoatalk](https://github.com/LAH1203/Kokoatalk) | 2020-12-29 ~ 2021-02-26 | *Node.js(FrontEnd)* |
 | [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ 2021-02-14 | *Node.js(FullStack)* |
 | [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03 (하루동안 진행) | *Vanilla JS* |
-| [LottoGame](https://github.com/youngDaLee/LottoGame) |  | *React, Java Spring* |
+| [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~  | *React, Java Spring* |
 
 ### Planning :clipboard:
 + Vue.js
