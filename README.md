@@ -31,7 +31,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat&logo=Pug&logoColor=white)
@@ -44,6 +44,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 ![Elastic search](http://img.shields.io/badge/-Elastic%20search-005571?style=flat&logo=Elasticsearch&logoColor=white)
 ![Auth0](http://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=Auth0&logoColor=white)
 ![Firebase](http://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
+![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![Google Cloud](http://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white)
 
 
