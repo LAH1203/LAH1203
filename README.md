@@ -75,19 +75,19 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ### Project 🏆
 | Project | ⌛ | 📝 |
-| :----: | ------ | --- |
+| :----: | ------ | :---: |
 | [찾아봐요 공영주차장](https://github.com/LAH1203/Parking_Map) | 2020-05-02 ~ 2020-06-01 | *Android Studio(Java)* |
 | [Abilitygram](https://github.com/sunjungAn/promotion_seoul) | 2020-07-24 ~ (잠정적 중단ㅠ) | *Android Studio(Java)* |
-| [Kokoatalk](https://github.com/LAH1203/Kokoatalk) | 2020-12-29 ~ 2021-02-26 | *Node.js(FrontEnd)* |
-| [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ 2021-02-14 | *Node.js(FullStack)* |
+| [Kokoatalk](https://github.com/LAH1203/Kokoatalk) | 2020-12-29 ~ 2021-02-26 | *Node.js*<br>-FrontEnd- |
+| [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ 2021-02-14 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
 | [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03 (하루동안 진행) | *Vanilla JS* |
-| [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~  |  |
+| [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *Python, Node.js*<br>-BackEnd- |
+| [Shopping(Toy Project)](https://github.com/LAH1203/Clone-Shopping) | 2021-07-01 ~ | *React, Node.js*<br>-FullStack- |
+| [Calendar Diary](https://github.com/LAH1203/Calendar-Diary) | 2021-07-06 ~ | *React, Node.js*<br>-FullStack- |
 
 ### Planning :clipboard:
-+ Vue.js
-+ 따라하며 배우는 노드, 리액트 시리즈
 + 인프런 리액트 산 강의
-+ HTML, CSS, Javascript 제대로 공부합시당
++ Javascript 제대로 공부합시당
 + **프론트엔드 중점적으로 공부!**
 
 <!--
