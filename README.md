@@ -82,7 +82,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ 2021-02-14 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
 | [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03 (하루동안 진행) | *Vanilla JS* |
 | [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *Python, Node.js*<br>-BackEnd- |
-| [Shopping(Toy Project)](https://github.com/LAH1203/Clone-Shopping) | 2021-07-01 ~ | *React, Node.js*<br>-FullStack- |
+| [Shopping](https://github.com/LAH1203/Clone-Shopping) | 2021-07-01 ~ | *React, Node.js*<br>-FullStack- |
 | [Calendar Diary](https://github.com/LAH1203/Calendar-Diary) | 2021-07-06 ~ | *React, Node.js*<br>-FullStack- |
 
 ### Planning :clipboard:
