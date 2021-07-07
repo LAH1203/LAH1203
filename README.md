@@ -39,6 +39,9 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&fontColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white&fontColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white&fontColor=white)
+![Redux-saga](https://img.shields.io/badge/-Redux%20Saga-999999?style=flat&logo=Redux-Saga&logoColor=white&fontColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Java Spring](http://img.shields.io/badge/-Java%20Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Elastic search](http://img.shields.io/badge/-Elastic%20search-005571?style=flat&logo=Elasticsearch&logoColor=white)
@@ -65,13 +68,14 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | :----: | ------ |
 | [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) | *백준 알고리즘 코드* |
 | [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) | *자료구조/알고리즘 공부* |
-| [Kotlin](https://github.com/LAH1203/Kotlin_study) | *Kotlin 공부* |
+| [Kotlin](https://github.com/LAH1203/Kotlin_study) | *Kotlin* |
 | [Frontend basic](https://github.com/LAH1203/Study_Frontend_basic) | *Frontend 기본* |
-| [jQuery](https://github.com/LAH1203/Study_jQuery) | *jQuery 공부* |
+| [jQuery](https://github.com/LAH1203/Study_jQuery) | *jQuery* |
 | [Web Application(node.js)](https://github.com/LAH1203/Study_nodejs) | *node.js를 공부하며 사용한 코드* |
-| [Web(Spring)](https://github.com/LAH1203/Study_JavaSpring) | *Java Spring 기반 Backend 공부* |
-| [React 기초(단체)](https://github.com/LAH1203/React_study)<br>[React 기초(개인)](https://github.com/LAH1203/React-with-Web-Game)<br>[Shopping](https://github.com/LAH1203/Clone-Shopping)<br>[NodeBird SNS](https://github.com/LAH1203/NodeBird-SNS) | *React 공부* |
-| [Frontend Web Design](https://github.com/LAH1203/Doit_FE_WebDesign) | *Do it Frontend 웹 디자인 입문 공부* |
+| [Web(Spring)](https://github.com/LAH1203/Study_JavaSpring) | *Java Spring* |
+| [React 기초(단체)](https://github.com/LAH1203/React_study)<br>[React 기초(개인)](https://github.com/LAH1203/React-with-Web-Game)<br>[Shopping](https://github.com/LAH1203/Clone-Shopping) | *React* |
+| [NodeBird SNS](https://github.com/LAH1203/NodeBird-SNS) | *Next.js, Redux, Redux-Saga, Node.js* |
+| [Frontend Web Design](https://github.com/LAH1203/Doit_FE_WebDesign) | *Do,it! Frontend 웹 디자인 입문* |
 
 ### Project 🏆
 | Project | ⌛ | 📝 |
