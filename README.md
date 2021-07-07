@@ -69,8 +69,8 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | [Frontend basic](https://github.com/LAH1203/Study_Frontend_basic) | *Frontend 기본* |
 | [jQuery](https://github.com/LAH1203/Study_jQuery) | *jQuery 공부* |
 | [Web Application(node.js)](https://github.com/LAH1203/Study_nodejs) | *node.js를 공부하며 사용한 코드* |
-| [Web(Java & JavaSpring)](https://github.com/LAH1203/Study_JavaSpring) | *Java Spring 기반 Backend 공부* |
-| [React 기초(단체)](https://github.com/LAH1203/React_study)<br>[React 기초(개인)](https://github.com/LAH1203/React-with-Web-Game) | *React 공부* |
+| [Web(Spring)](https://github.com/LAH1203/Study_JavaSpring) | *Java Spring 기반 Backend 공부* |
+| [React 기초(단체)](https://github.com/LAH1203/React_study)<br>[React 기초(개인)](https://github.com/LAH1203/React-with-Web-Game)<br>[Shopping](https://github.com/LAH1203/Clone-Shopping)<br>[NodeBird SNS](https://github.com/LAH1203/NodeBird-SNS) | *React 공부* |
 | [Frontend Web Design](https://github.com/LAH1203/Doit_FE_WebDesign) | *Do it Frontend 웹 디자인 입문 공부* |
 
 ### Project 🏆
@@ -82,7 +82,6 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ 2021-02-14 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
 | [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03 (하루동안 진행) | *Vanilla JS* |
 | [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *Python, Node.js*<br>-BackEnd- |
-| [Shopping](https://github.com/LAH1203/Clone-Shopping) | 2021-07-01 ~ | *React, Node.js*<br>-FullStack- |
 | [Calendar Diary](https://github.com/LAH1203/Calendar-Diary) | 2021-07-06 ~ | *React, Node.js*<br>-FullStack- |
 
 ### Planning :clipboard:
