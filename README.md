@@ -69,7 +69,6 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) | *백준 알고리즘 코드* |
 | [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) | *자료구조/알고리즘 공부* |
 | [Kotlin](https://github.com/LAH1203/Kotlin_study) | *Kotlin* |
-| [Frontend basic](https://github.com/LAH1203/Study_Frontend_basic) | *Frontend 기본* |
 | [jQuery](https://github.com/LAH1203/Study_jQuery) | *jQuery* |
 | [Web Application(node.js)](https://github.com/LAH1203/Study_nodejs) | *node.js를 공부하며 사용한 코드* |
 | [Web(Spring)](https://github.com/LAH1203/Study_JavaSpring) | *Java Spring* |
