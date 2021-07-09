@@ -70,9 +70,9 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) | *자료구조/알고리즘 공부* |
 | [Kotlin](https://github.com/LAH1203/Kotlin_study) | *Kotlin* |
 | [jQuery](https://github.com/LAH1203/Study_jQuery) | *jQuery* |
-| [Web Application(node.js)](https://github.com/LAH1203/Study_nodejs) | *node.js를 공부하며 사용한 코드* |
-| [Web(Spring)](https://github.com/LAH1203/Study_JavaSpring) | *Java Spring* |
-| [React 기초(단체)](https://github.com/LAH1203/React_study)<br>[React 기초(개인)](https://github.com/LAH1203/React-with-Web-Game)<br>[Shopping](https://github.com/LAH1203/Clone-Shopping) | *React* |
+| [Node.js](https://github.com/LAH1203/Study_nodejs) | *node.js를 공부하며 사용한 코드* |
+| [Spring](https://github.com/LAH1203/Study_JavaSpring) | *Java Spring* |
+| [React 기초(팀)](https://github.com/LAH1203/React_study)<br>[React 기초(개인)](https://github.com/LAH1203/React-with-Web-Game)<br>[Shopping](https://github.com/LAH1203/Clone-Shopping) | *React* |
 | [NodeBird SNS](https://github.com/LAH1203/NodeBird-SNS) | *Next.js, Redux, Redux-Saga, Node.js* |
 | [Frontend Web Design](https://github.com/LAH1203/Doit_FE_WebDesign) | *Do,it! Frontend 웹 디자인 입문* |
 
@@ -87,6 +87,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | [Campers](https://github.com/LAH1203/Software_Engineering_Project) | 2021-04-02 ~ 2021-06.21 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
 | [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *HTML, CSS, JS, Python, Node.js*<br>-BackEnd- |
 | [Calendar Diary](https://github.com/LAH1203/Calendar-Diary) | 2021-07-06 ~ | *React, Node.js*<br>-FullStack- |
+| Daparu | 2021-08 ~ (예정) | *React, Node.js* |
 
 ### Planning :clipboard:
 + 인프런 리액트 산 강의
