@@ -82,10 +82,11 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | :----: | ------ | :---: |
 | [찾아봐요 공영주차장](https://github.com/LAH1203/Parking_Map) | 2020-05-02 ~ 2020-06-01 | *Android Studio(Java)* |
 | [Abilitygram](https://github.com/sunjungAn/promotion_seoul) | 2020-07-24 ~ (잠정적 중단ㅠ) | *Android Studio(Java)* |
-| [Kokoatalk](https://github.com/LAH1203/Kokoatalk) | 2020-12-29 ~ 2021-02-26 | *Node.js*<br>-FrontEnd- |
+| [Kokoatalk](https://github.com/LAH1203/Kokoatalk) | 2020-12-29 ~ 2021-02-26 | *Pug, CSS, JS, Node.js*<br>-FrontEnd- |
 | [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ 2021-02-14 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
 | [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03 (하루동안 진행) | *Vanilla JS* |
-| [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *Python, Node.js*<br>-BackEnd- |
+| [Campers](https://github.com/LAH1203/Software_Engineering_Project) | 2021-04-02 ~ 2021-06.21 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
+| [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *HTML, CSS, JS, Python, Node.js*<br>-BackEnd- |
 | [Calendar Diary](https://github.com/LAH1203/Calendar-Diary) | 2021-07-06 ~ | *React, Node.js*<br>-FullStack- |
 
 ### Planning :clipboard:
