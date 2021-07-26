@@ -84,10 +84,10 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | [Kokoatalk](https://github.com/LAH1203/Kokoatalk) | 2020-12-29 ~ 2021-02-26 | *Pug, CSS, JS, Node.js*<br>-FrontEnd- |
 | [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ 2021-02-14 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
 | [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03 (하루동안 진행) | *Vanilla JS* |
-| [Campers](https://github.com/LAH1203/Software_Engineering_Project) | 2021-04-02 ~ 2021-06.21 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
+| [Campers](https://github.com/LAH1203/Software_Engineering_Project) | 2021-04-02 ~ 2021-06-21 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
 | [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *HTML, CSS, JS, Python, Node.js*<br>-BackEnd- |
 | [Calendar Diary](https://github.com/LAH1203/Calendar-Diary) | 2021-07-06 ~ | *React, Node.js*<br>-FullStack- |
-| [Daparu](https://github.com/LAH1203/Daparu) | 2021-08-02 | *React, Node.js* |
+| [Daparu](https://github.com/LAH1203/Daparu) | 2021-08-02 ~ | *React, Node.js* |
 
 ### Planning :clipboard:
 + 인프런 리액트 산 강의
