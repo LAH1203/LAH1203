@@ -17,13 +17,6 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 -->
 
 ### Used at least once :books:
-<!--
-+ C / C++
-+ Java
-+ Kotlin
-+ Android
-+ Web(Frontend/Backend)
--->
 <!--![Javascript](https://img.shields.io/amo/stars/javascript?color=yellow&label=Javascript&logo=Javascript)-->
 <!-- icon url : https://simpleicons.org/ -->
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -58,7 +51,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 -->
 
 ### Interested :mag:
-![Web](https://img.shields.io/badge/-Web-2496ED?style=flat&logo=Internet%20Explorer&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&fontColor=white)
 <br>
 <img src="https://user-images.githubusercontent.com/57928612/110071130-dbcf8280-7dbe-11eb-8d42-7e0181a689ed.png" height="150">
 *고양이는 사랑입니다..:heart:*
@@ -78,7 +71,7 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ### Project 🏆
 | Project | ⌛ | 📝 |
-| :----: | ------ | :---: |
+| :----: | :------: | :---: |
 | [찾아봐요 공영주차장](https://github.com/LAH1203/Parking_Map) | 2020-05-02 ~ 2020-06-01 | *Android Studio(Java)* |
 | [Abilitygram](https://github.com/sunjungAn/promotion_seoul) | 2020-07-24 ~ (잠정적 중단ㅠ) | *Android Studio(Java)* |
 | [Kokoatalk](https://github.com/LAH1203/Kokoatalk) | 2020-12-29 ~ 2021-02-26 | *Pug, CSS, JS, Node.js*<br>-FrontEnd- |
@@ -86,8 +79,8 @@ https://www.webfx.com/tools/emoji-cheat-sheet/
 | [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03 (하루동안 진행) | *Vanilla JS* |
 | [Campers](https://github.com/LAH1203/Software_Engineering_Project) | 2021-04-02 ~ 2021-06-21 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
 | [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *HTML, CSS, JS, Python, Node.js*<br>-BackEnd- |
-| [Calendar Diary](https://github.com/LAH1203/Calendar-Diary) | 2021-07-06 ~ | *React, Node.js*<br>-FullStack- |
-| [Daparu](https://github.com/LAH1203/Daparu) | 2021-08-02 ~ | *React, Node.js* |
+| [Calendar Diary](https://github.com/LAH1203/Calendar-Diary) | 2021-07-06 ~ 2021-07-27<br>*사정상 뒤로 미뤘다.. 나중에 하자* | *React, Node.js*<br>-FullStack- |
+| [Daparu](https://github.com/LAH1203/Daparu) | 2021-08-02 ~ | *React, Node.js*<br>-FullStack- |
 
 ### Planning :clipboard:
 + 인프런 리액트 산 강의
