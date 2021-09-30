@@ -12,8 +12,7 @@
 
 <!--
 이모지 링크
-https://apps.timwhitlock.info/emoji/tables/unicode
-https://www.webfx.com/tools/emoji-cheat-sheet/
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
 
 ### Used at least once :books:
