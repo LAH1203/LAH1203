@@ -80,10 +80,12 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 | [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *HTML, CSS, JS, Python, Node.js*<br>-BackEnd- |
 | [Calendar Diary](https://github.com/LAH1203/Calendar-Diary) | 2021-07-06 ~ 2021-07-27<br>*사정상 뒤로 미뤘다.. 나중에 하자* | *React, Node.js*<br>-FullStack- |
 | [Daparu](https://github.com/LAH1203/Daparu) | 2021-08-02 ~ | *React, Node.js*<br>-FullStack- |
+| [Folio(Front)](https://github.com/LAH1203/Folio_Front) | 2021-10-27 ~ | *React, Spring*<br>-FrontEnd- |
 
 ### Planning :clipboard:
 + 인프런 리액트 산 강의
-+ Javascript 제대로 공부합시당
++ TypeScript 공부
++ 일본어 공부..?
 + **프론트엔드 중점적으로 공부!**
 
 <!--
