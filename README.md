@@ -49,8 +49,10 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ![Web application](https://img.shields.io/badge/-Web%20Application-339933?style=flat&logo=node.js&logoColor=white)
 -->
 
-### Interested :mag:
+### Do well :mag:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&fontColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+<br>
 <br>
 <img src="https://user-images.githubusercontent.com/57928612/110071130-dbcf8280-7dbe-11eb-8d42-7e0181a689ed.png" height="150">
 *고양이는 사랑입니다..:heart:*
@@ -80,12 +82,11 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 | [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *HTML, CSS, JS, Python, Node.js*<br>-BackEnd- |
 | [Calendar Diary](https://github.com/LAH1203/Calendar-Diary) | 2021-07-06 ~ 2021-07-27<br>*사정상 뒤로 미뤘다.. 나중에 하자* | *React, Node.js*<br>-FullStack- |
 | [Daparu](https://github.com/LAH1203/Daparu) | 2021-08-02 ~ | *React, Node.js*<br>-FullStack- |
-| [Folio(Front)](https://github.com/LAH1203/Folio_Front) | 2021-10-27 ~ | *React, Spring*<br>-FrontEnd- |
+| [Folio(Front)](https://github.com/LAH1203/Folio_Front)<br>[Folio(Back)](https://github.com/LAH1203/Folio_Back) | 2021-10-27 ~ | *React, Spring*<br>-FullStack- |
 
 ### Planning :clipboard:
 + 인프런 리액트 산 강의
 + TypeScript 공부
-+ 일본어 공부..?
 + **프론트엔드 중점적으로 공부!**
 
 <!--
