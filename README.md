@@ -7,8 +7,16 @@
 **LAH1203/LAH1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<a href="https://lah1203.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github%20Blog-222222?style=for-the-badge&logo=github-pages&logoColor=white"/></a>
 
-*I'm 🐥 Fullstack developer!*
+*I'm 🐥 Front-End developer!*
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=LAH1203&show_icons=true)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lah1203)](https://solved.ac/lah1203)
+
+<br>
+<br>
+
 
 <!--
 이모지 링크
@@ -54,8 +62,8 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/57928612/110071130-dbcf8280-7dbe-11eb-8d42-7e0181a689ed.png" height="150">
-*고양이는 사랑입니다..:heart:*
+<br>
+<br>
 
 ### Study 📖
 | Study | 📎 |
@@ -95,12 +103,6 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 | ---- | ---- | ----------- |
 | 알고리즘 문제 하루 최소 두 문제! | 2021-02-04 ~ | [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) & [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) |
 -->
-
-### ✨ My Baekjoon Algorithm Page ✨
-#### https://www.acmicpc.net/user/lah1203
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lah1203)](https://solved.ac/lah1203)
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=LAH1203&show_icons=true)
 
 <!--
 - 🔭 I’m currently working on ...
