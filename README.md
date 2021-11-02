@@ -69,7 +69,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 | Study | 📎 |
 | :----: | ------ |
 | [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) | *백준 알고리즘 코드* |
-| [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm) | *자료구조/알고리즘 공부* |
+| [Data structure & Algorithm](https://github.com/LAH1203/My_Algorithm)<br>[Algorithm by python](https://github.com/LAH1203/2021_Algorithm_Study) | *자료구조/알고리즘 공부* |
 | [Kotlin](https://github.com/LAH1203/Kotlin_study) | *Kotlin* |
 | [jQuery](https://github.com/LAH1203/Study_jQuery) | *jQuery* |
 | [Node.js](https://github.com/LAH1203/Study_nodejs) | *node.js를 공부하며 사용한 코드* |
