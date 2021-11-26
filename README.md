@@ -90,7 +90,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 | [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *HTML, CSS, JS, Python, Node.js*<br>-BackEnd- |
 | [Calendar Diary](https://github.com/LAH1203/Calendar-Diary) | 2021-07-06 ~ 2021-07-27<br>*사정상 뒤로 미뤘다.. 나중에 하자* | *React, Node.js*<br>-FullStack- |
 | [Daparu](https://github.com/LAH1203/Daparu) | 2021-08-02 ~ | *React, Node.js*<br>-FullStack- |
-| [Folio](https://github.com/LAH1203/Folio) | 2021-10-27 ~ | *React, Node.js*<br>-FullStack- |
+| [Folio](https://github.com/LAH1203/Folio) | 2021-10-27 ~ 2021-11-26 | *React, Node.js*<br>-FullStack- |
 | [Good Restaurant](https://github.com/LAH1203/Beginner_3) | 2021-09-23 ~ 2021-11-30 | *HTML, CSS, JS, Node.js*<br>-FullStack- |
 
 ### Planning :clipboard:
