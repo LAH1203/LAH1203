@@ -11,12 +11,7 @@
 
 *I'm 🐥 Front-End developer!*
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=LAH1203&show_icons=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lah1203)](https://solved.ac/lah1203)
-
-<br>
-<br>
-
+<hr>
 
 <!--
 이모지 링크
@@ -50,7 +45,6 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![Google Cloud](http://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white)
 
-
 <!--
 ### Can Do 📫
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -60,10 +54,8 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ### Do well :mag:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&fontColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-<br>
-<br>
-<br>
-<br>
+
+<hr>
 
 ### Study 📖
 | Study | 📎 |
@@ -78,25 +70,38 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 | [NodeBird SNS](https://github.com/LAH1203/NodeBird-SNS) | *Next.js, Redux, Redux-Saga, Node.js* |
 | [Frontend Web Design](https://github.com/LAH1203/Doit_FE_WebDesign) | *Do,it! Frontend 웹 디자인 입문* |
 
+<hr>
+
 ### Project 🏆
+#### Android
 | Project | ⌛ | 📝 |
 | :----: | :------: | :---: |
 | [찾아봐요 공영주차장](https://github.com/LAH1203/Parking_Map) | 2020-05-02 ~ 2020-06-01 | *Android Studio(Java)* |
-| [Abilitygram](https://github.com/sunjungAn/promotion_seoul) | 2020-07-24 ~ (잠정적 중단ㅠ) | *Android Studio(Java)* |
+| [Abilitygram](https://github.com/sunjungAn/promotion_seoul) | 2020-07-24 ~ (잠정적 중단) | *Android Studio(Java)* |
+
+#### Web
+| Project | ⌛ | 📝 |
+| :----: | :------: | :---: |
 | [Kokoatalk](https://github.com/LAH1203/Kokoatalk) | 2020-12-29 ~ 2021-02-26 | *Pug, CSS, JS, Node.js*<br>-FrontEnd- |
 | [WhereGo](https://github.com/LAH1203/WhereGo) | 2021-01-03 ~ 2021-02-14 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
 | [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03 (하루동안 진행) | *Vanilla JS* |
 | [Campers](https://github.com/LAH1203/Software_Engineering_Project) | 2021-04-02 ~ 2021-06-21 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
 | [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *HTML, CSS, JS, Python, Node.js*<br>-BackEnd- |
-| [Calendar Diary](https://github.com/LAH1203/Calendar-Diary) | 2021-07-06 ~ 2021-07-27<br>*사정상 뒤로 미뤘다.. 나중에 하자* | *React, Node.js*<br>-FullStack- |
 | [Daparu](https://github.com/LAH1203/Daparu) | 2021-08-02 ~ | *React, Node.js*<br>-FullStack- |
-| [Folio](https://github.com/LAH1203/Folio) | 2021-10-27 ~ 2021-11-26 | *React, Node.js*<br>-FullStack- |
 | [Good Restaurant](https://github.com/LAH1203/Beginner_3) | 2021-09-23 ~ 2021-11-30 | *HTML, CSS, JS, Node.js*<br>-FullStack- |
+| [Folio](https://github.com/LAH1203/Folio) | 2021-10-27 ~ 2021-11-26 | *React, Node.js*<br>-FullStack- |
+
+<hr>
 
 ### Planning :clipboard:
 + 인프런 리액트 산 강의
 + TypeScript 공부
 + **프론트엔드 중점적으로 공부!**
+
+<hr>
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=LAH1203&show_icons=true)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lah1203)](https://solved.ac/lah1203)
 
 <!--
 ### Challenge :crystal_ball:
