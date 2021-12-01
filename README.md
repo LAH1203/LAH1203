@@ -7,7 +7,7 @@
 **LAH1203/LAH1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<a href="https://lah1203.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github%20Blog-222222?style=for-the-badge&logo=github-pages&logoColor=white"/></a>
+<a href="https://lah1203.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github%20Blog-222222?style=for-the-badge&logo=github-pages&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLAH1203&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 *I'm 🐥 Front-End developer!*
 
@@ -18,20 +18,21 @@
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
 
-### Used at least once :books:
-<!--![Javascript](https://img.shields.io/amo/stars/javascript?color=yellow&label=Javascript&logo=Javascript)-->
+### :books: Used at least once
 <!-- icon url : https://simpleicons.org/ -->
+언어 - 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat&logo=Pug&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+
+개발 도구 - 
+![Android Studio](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat&logo=Pug&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&fontColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white&fontColor=white)
@@ -39,25 +40,28 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ![Redux-saga](https://img.shields.io/badge/-Redux%20Saga-999999?style=flat&logo=Redux-Saga&logoColor=white&fontColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Java Spring](http://img.shields.io/badge/-Java%20Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Elastic search](http://img.shields.io/badge/-Elastic%20search-005571?style=flat&logo=Elasticsearch&logoColor=white)
-![Auth0](http://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=Auth0&logoColor=white)
+
+데이터베이스 도구 - 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Firebase](http://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+
+데이터분석 도구 - 
+![Elastic search](http://img.shields.io/badge/-Elastic%20search-005571?style=flat&logo=Elasticsearch&logoColor=white)
 ![Google Cloud](http://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white)
 
-<!--
-### Can Do 📫
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Web application](https://img.shields.io/badge/-Web%20Application-339933?style=flat&logo=node.js&logoColor=white)
--->
+API - 
+![Auth0](http://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=Auth0&logoColor=white)
 
-### Do well :mag:
+<br>
+
+### :mag: Do well
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&fontColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 <hr>
 
-### Study 📖
+### 📖 Study
 | Study | 📎 |
 | :----: | ------ |
 | [Baekjoon Algorithm](https://github.com/LAH1203/Baekjoon_Algorithm) | *백준 알고리즘 코드* |
@@ -72,7 +76,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 <hr>
 
-### Project 🏆
+### 🏆 Project
 #### Android
 | Project | ⌛ | 📝 |
 | :----: | :------: | :---: |
@@ -93,7 +97,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 <hr>
 
-### Planning :clipboard:
+### :clipboard: Planning
 + 인프런 리액트 산 강의
 + TypeScript 공부
 + **프론트엔드 중점적으로 공부!**
