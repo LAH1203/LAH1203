@@ -11,6 +11,8 @@
 
 *I'm 🐥 Front-End developer!*
 
+![snake gif](https://github.com/LAH1203/LAH1203/blob/output/github-contribution-grid-snake.svg)
+
 <hr>
 
 <!--
