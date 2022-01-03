@@ -93,7 +93,7 @@ API -
 | [To Do List](https://github.com/LAH1203/ToDoList_VanillaJS) | 2021-02-03 (하루동안 진행) | *Vanilla JS* |
 | [Campers](https://github.com/LAH1203/Software_Engineering_Project) | 2021-04-02 ~ 2021-06-21 | *Pug, CSS, JS, Node.js*<br>-FullStack- |
 | [LottoGame](https://github.com/youngDaLee/LottoGame) | 2021-04-27 ~ 2021-06 | *HTML, CSS, JS, Python, Node.js*<br>-BackEnd- |
-| [Daparu](https://github.com/LAH1203/Daparu) | 2021-08-02 ~ | *React, Node.js*<br>-FullStack- |
+| [Daparu](https://github.com/LAH1203/Daparu) | 2021-08-02 ~ 2022-01-03 | *React, Node.js*<br>-FullStack- |
 | [Good Restaurant](https://github.com/LAH1203/Beginner_3) | 2021-09-23 ~ 2021-11-30 | *HTML, CSS, JS, Node.js*<br>-FullStack- |
 | [Folio](https://github.com/LAH1203/Folio) | 2021-10-27 ~ 2021-11-26 | *React, Node.js*<br>-FullStack- |
 
