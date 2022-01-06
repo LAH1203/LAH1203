@@ -76,6 +76,8 @@ API -
 | [NodeBird SNS](https://github.com/LAH1203/NodeBird-SNS) | *Next.js, Redux, Redux-Saga, Node.js* |
 | [Frontend Web Design](https://github.com/LAH1203/Doit_FE_WebDesign) | *Do,it! Frontend 웹 디자인 입문* |
 
+*이후의 대부분의 공부는 깃허브 블로그에 정리하고 있습니다.*
+
 <hr>
 
 ### 🏆 Project
