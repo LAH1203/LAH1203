@@ -7,5 +7,5 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lah1203&layout=compact)](https://github.com/lah1203/github-readme-stats)
   
-  [Blog](https://lah1203.netlify.app/) | [Email](mailto:lah001203@gmail.com)
+  [Blog](https://lah1203.vercel.app/) | [Email](mailto:lah001203@gmail.com)
 </div>
